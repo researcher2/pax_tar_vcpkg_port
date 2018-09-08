@@ -17,8 +17,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO researcher2/pax_tar
-    REF 1.0
-    SHA512 ad29726e9b48b19294d6ed627b13ab216ad886aa6df33ca94ac96c47d471f362239a855ab0ed90cd2e7807a58136272368e95c03a62fb21674c2d735703790b0
+    REF 1.0.0
+    SHA512 d0260f9d5aaf195e221c0acc8da3bfb06b042710e0a611854233782d4dbb142ff3dea999bde41546793e9d2ad91115e51422c33293ef7e1d0f32afcf469117ae
     HEAD_REF master
 )
 
