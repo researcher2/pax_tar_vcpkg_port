@@ -18,7 +18,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO researcher2/pax_tar
     REF 1.0.0
-    SHA512 80dab2d83536fb14438bdf395fe274a05bb7b8f12a2ce09bed35e8e31e7066500a6377a597e1fb836c9fca8f9047ca68d57cf8c3b7745ff2069d8f5fc0eb654c
+    SHA512 bbbdd5b0a970dda46eac729e47ba6e8b9609825ded0c0db201b26a1447b6f4e1b5e145d8bae0a919aedba1c55cf4ed53f7df1d2800389d5a16c34c28e98c38e6
     HEAD_REF master
 )
 
